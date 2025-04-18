@@ -2,7 +2,7 @@
 EAS uses a microphone and camera to analyze the user's voice and facial expressions and then processes the results through a neural network to determine the user's emotions accurately.
 # 🎙️ Emotion Analyzer - Speech Emotion Recognition using Wav2Vec2 + Keras
 
-This repository provides a speech emotion recognition system that classifies emotions from Telugu audio clips using Wav2Vec2 XLS-R for feature extraction and a custom Keras classifier. The model is trained to detect emotions such as **Happy**, **Sad**, and **Neutral**.
+This repository provides a speech emotion recognition system that classifies emotions from Telugu audio clips using Wav2Vec2 XLS-R for feature extraction and a custom Keras classifier. The model is trained to detect emotions such as **Positive**, **Negitive**, and **Neutral**.
 
 ## 🚀 Features
 
