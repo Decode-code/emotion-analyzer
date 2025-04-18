@@ -53,6 +53,4 @@ NumPy
 Sounddevice
 
 
-
-![URL QR Code](https://github.com/user-attachments/assets/06912cc6-28a8-4a05-baab-9591ffec3e20)
-
+<img src="https://github.com/user-attachments/assets/06912cc6-28a8-4a05-baab-9591ffec3e20" alt="URL QR Code" width="150"/>
