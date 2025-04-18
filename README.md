@@ -54,5 +54,5 @@ Sounddevice
 
 
 
-![URL QR Code](https://github.com/user-attachments/assets/06912cc6-28a8-4a05-baab-9591ffec3e20 width="200" height="400")
+![URL QR Code](https://github.com/user-attachments/assets/06912cc6-28a8-4a05-baab-9591ffec3e20)
 
