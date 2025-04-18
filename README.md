@@ -53,6 +53,10 @@ NumPy
 Sounddevice
 
 
+<img width="1080" alt="postitve" src="https://github.com/user-attachments/assets/569859b4-7275-4d3a-a747-f1633d0b29bb" />
+
+
+
 ## Scan Me For More Details 
 
 <img src="https://github.com/user-attachments/assets/06912cc6-28a8-4a05-baab-9591ffec3e20" alt="URL QR Code" width="150"/>
